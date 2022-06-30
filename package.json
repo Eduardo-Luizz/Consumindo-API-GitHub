@@ -6,5 +6,8 @@
   "scripts": {},
   "keywords": [],
   "author": "Eduardo Luiz Zanotto",
-  "license": "ISC"
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
 }
