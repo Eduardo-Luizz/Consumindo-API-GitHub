@@ -1,0 +1,10 @@
+{
+  "name": "consumindo-api-github",
+  "version": "1.0.0",
+  "description": "Consumindo API for github axios",
+  "main": "index.js",
+  "scripts": {},
+  "keywords": [],
+  "author": "Eduardo Luiz Zanotto",
+  "license": "ISC"
+}
